@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded datasets (each notebook fetches its own data)
+data/
+
+# OS
+.DS_Store
